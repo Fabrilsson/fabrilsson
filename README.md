@@ -38,7 +38,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fabrilsson&theme=transparent" />
   </a>
   <a href="https://github.com/fabrilsson">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabrilsson&langs_count=5" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabrilsson&langs_count=5&exclude_repo=&hide=cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
   </a>
 </p>
 </details>
