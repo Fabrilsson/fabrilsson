@@ -5,6 +5,7 @@
     <i>
         Name's Fabrício.<br>
         I have about 7 years of experience working with C#.<br>
+        I also have some experience with C, C++ and Java, although never used it commercially.
         Currently learning Rust, mostly Web APIs using Actix-Web. Still fighting the compiler.<br>
     </i><br>
     <a href="https://br.linkedin.com/in/fabr%C3%ADcio-sperafico-sonego-02ab76174">
@@ -16,6 +17,9 @@
 [![C#](https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=csharp)](https://github.com/fabrilsson)
 [![Rust](https://img.shields.io/badge/rust-black?style=for-the-badge&logo=rust)](https://github.com/fabrilsson)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/fabrilsson)
+[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/fabrilsson)
+[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/fabrilsson)
+[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/fabrilsson)
 
 ### Technologies & Frameworks
 [![ASP .NET](https://img.shields.io/badge/.net-black?style=for-the-badge&logo=.net)](https://github.com/fabrilsson)
@@ -38,7 +42,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fabrilsson&theme=transparent" />
   </a>
   <a href="https://github.com/fabrilsson">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabrilsson&langs_count=5&exclude_repo=&hide=cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabrilsson&langs_count=5&exclude_repo=CalculusCalculator&hide=Commom%20Lisp,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
   </a>
 </p>
 </details>
