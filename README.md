@@ -19,7 +19,7 @@
 
 ### Technologies & Frameworks
 [![ASP .NET](https://img.shields.io/badge/.net-black?style=for-the-badge&logo=.net)](https://github.com/fabrilsson)
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/fabrilsson)
+[![Actix-Web](https://img.shields.io/badge/actix-black?style=for-the-badge&logo=actix)](https://hub.docker.com/u/fabrilsson)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/fabrilsson)
 
 ### OS
