@@ -4,7 +4,8 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         Name's Fabrício.<br>
-        I have about 7 years of experience working with C# and I am currently learning Rust.<br>
+        I have about 7 years of experience working with C#.<br>
+        Currently learning Rust, mostly Web APIs using Actix-Web. Still fighting the compiler.<br>
     </i><br>
     <a href="https://br.linkedin.com/in/fabr%C3%ADcio-sperafico-sonego-02ab76174">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
@@ -37,7 +38,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fabrilsson&theme=transparent" />
   </a>
   <a href="https://github.com/fabrilsson">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabrilsson&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabrilsson&langs_count=5" />
   </a>
 </p>
 </details>
